@@ -1,0 +1,13 @@
+{
+  "name": "glear-sistemas-roblox",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node tests/run.cjs",
+    "build": "node tools/build.cjs"
+  },
+  "devDependencies": {
+    "fengari": "0.1.5",
+    "luaparse": "0.3.1"
+  }
+}
