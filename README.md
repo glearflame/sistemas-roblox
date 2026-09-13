@@ -1,4 +1,13 @@
-# Cinco sistemas pro Roblox 🎮
+# Sistemas pro Roblox — Glear 🎮
+
+## Projetos principais
+
+Cinco sistemas mais completos, conectados numa arena de demonstração: economia e loja, campanha de missões, combate com habilidades, ondas de sobrevivência e construção por grade.
+
+[Conheça o kit avançado e instale os cinco juntos](principais/README.md). Inclui salvamento, painel jogável e testes de integração. Ainda precisa de validação no motor Roblox.
+
+## Projetos básicos
+
 
 Ideias pequenas pra colocar no jogo, testar e ir melhorando. Cada pasta tem um sistema independente, com instalador, código separado e explicação de como usar.
 
